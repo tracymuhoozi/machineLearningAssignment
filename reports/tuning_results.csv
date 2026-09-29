@@ -1,0 +1,3 @@
+model,best_params,cv_f1
+Random Forest,"{'model__max_depth': None, 'model__n_estimators': 200}",0.792
+KNN,"{'model__n_neighbors': 5, 'model__weights': 'uniform'}",0.721
