@@ -11,7 +11,6 @@ factors are linked to a diabetes diagnosis and what this means for modelling.
 - [Selected Charts](#selected-charts)
 - [How to Run](#how-to-run)
 - [Tools](#tools)
-- [Team](#team)
 - [Acknowledgements](#acknowledgements)
 
 ## Project Structure
