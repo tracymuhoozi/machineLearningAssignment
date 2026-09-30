@@ -17,7 +17,7 @@ factors are linked to a diabetes diagnosis and what this means for modelling.
 
 ```
 machineLearningAssignment/
-├── data/              # dataset (CSV)
+├── data/              # dataset in (CSV)
 ├── notebooks/         # eda.ipynb
 ├── images/            # charts exported from the notebook
 ├── reports/           # written report
