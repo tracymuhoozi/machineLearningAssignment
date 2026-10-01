@@ -218,6 +218,7 @@ The model file must be loaded with the same library versions listed in `requirem
 - [@Cosmas357](https://github.com/Cosmas357)
 - [@ahurira3](https://github.com/ahurira3)
 - [@wakhabekoe-eng](https://github.com/wakhabekoe-eng)
+- [@mugishaalex5461-max] (https://github.com/mugishaalex5461-max)
 
 ## Acknowledgements
 
